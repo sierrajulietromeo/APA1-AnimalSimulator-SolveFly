@@ -23,8 +23,7 @@ class Animal {
     +feed()
 }
 
-class Bird {
-}
+class Bird 
 
 class Duck {
     +quack()
@@ -47,6 +46,7 @@ class Ostrich {
     +display()
     +feed()
 }
+
 ```
 
 ## Features
